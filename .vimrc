@@ -55,7 +55,7 @@ set lbr
 set tw=500
 
 set wrap 
-
+set number
 "nerd tree open
 map <C-n> :NERDTreeToggle<CR>
 map <F3> <C-W>w 
